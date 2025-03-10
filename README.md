@@ -132,7 +132,6 @@ Additional tools for **various cybersecurity tasks**.
 
 ## 🌟 **Let's Connect!**  
 
-📜 **GitHub:**  https://github.com/piyushjain8350/  
 💼 **LinkedIn:** https://www.linkedin.com/in/piyushjain8350/
 
 🚀 **Contributions are welcome!** If you have any useful security tools, feel free to submit a PR.  
